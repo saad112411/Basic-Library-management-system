@@ -1,7 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
+# bacic Library Mangment System
 
-# In[8]:
 
 
 from library import Library
@@ -80,11 +78,11 @@ def main():
         else:
             print("Invalid choice. Please try again.")
 
-#if __name__ == "__main__":
-  #  main()
+if __name__ == "__main__":
+    main()
 
 
-# In[ ]:
+
 
 
 
